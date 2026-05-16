@@ -1,0 +1,32 @@
+title: "Awesome Dev Tool Directories"
+description: "A curated list of directories, communities, and platforms where developer tools get discovered by engineers."
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-sitemap
+
+author:
+  name: Pawel Boguta
+  url: https://batchlisted.com
+
+twitter:
+  card: summary
+
+show_downloads: false
+
+keywords: "dev tool directories, developer tool directories, where to list dev tools, directories for developers"
+
+# Jekyll generates pretty URLs; default layout applies cayman to README
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - .github/
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - _push.cjs
