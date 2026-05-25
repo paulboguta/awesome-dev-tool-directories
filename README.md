@@ -95,3 +95,4 @@ Contributions welcome. To suggest a new directory, open a PR or [create an issue
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the maintainer has waived all copyright and related or neighboring rights to this work.
+- **[WebExtract](https://scrapersaas.surge.sh)** · AI-powered web scraping API. Turn any URL into structured JSON. No selectors, no maintenance. Free: 500 pages/mo. Pro: €9/mo.
