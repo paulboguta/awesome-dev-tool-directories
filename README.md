@@ -42,6 +42,7 @@ If you're shipping a **dev tool**, CLI, library, or developer-focused SaaS, your
 - **[StackShare](https://stackshare.io)** · DR 72 · dofollow · free — Dev-facing only.
 - **[Tidy Repo](https://tidyrepo.com)** · DA 59 · dofollow · free
 - **[DevHunt](https://devhunt.org)** · DR 45 · dofollow · free — GitHub PR submission.
+- **[Vernclaw Connect CLI](https://vernclaw.com/docs)** · open-source · free — Developer-focused connector CLI with English skill docs, structured JSON output, and managed SEO/social/media connectors for agents.
 
 ## Publishing Platforms (Developer-Focused)
 
