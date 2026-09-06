@@ -42,6 +42,7 @@ If you're shipping a **dev tool**, CLI, library, or developer-focused SaaS, your
 - **[StackShare](https://stackshare.io)** · DR 72 · dofollow · free — Dev-facing only.
 - **[Tidy Repo](https://tidyrepo.com)** · DA 59 · dofollow · free
 - **[DevHunt](https://devhunt.org)** · DR 45 · dofollow · free — GitHub PR submission.
+- **[AI Nexus](https://www.myaiexp.com)** · dofollow · free — Trilingual (EN/ZH/JP) curated directory of AI developer tools, models, and agent skills.
 
 ## Publishing Platforms (Developer-Focused)
 
