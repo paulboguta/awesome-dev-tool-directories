@@ -42,6 +42,7 @@ If you're shipping a **dev tool**, CLI, library, or developer-focused SaaS, your
 - **[StackShare](https://stackshare.io)** · DR 72 · dofollow · free — Dev-facing only.
 - **[Tidy Repo](https://tidyrepo.com)** · DA 59 · dofollow · free
 - **[DevHunt](https://devhunt.org)** · DR 45 · dofollow · free — GitHub PR submission.
+- **[Altimateguide](https://altimateguide.com/request-inclusion)** · dofollow · free + paid tier — Tools directory with developer-tool categories. Manual editorial review on every submission; free listing via a public SayAbout.Us Wall of Love or an on-site badge, $14.99 one-time with no verification.
 
 ## Publishing Platforms (Developer-Focused)
 
