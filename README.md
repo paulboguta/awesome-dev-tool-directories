@@ -64,6 +64,7 @@ If you're shipping a **dev tool**, CLI, library, or developer-focused SaaS, your
 - **[DevDojo](https://devdojo.com)** · DA 50 · nofollow · free
 - **[Lobsters](https://lobste.rs)** · DA 48 · nofollow · free — Invite-only.
 - **[devRant](https://devrant.com)** · DA 48 · nofollow · free
+- **[daily.dev for Startups](https://daily.dev/startups/)** · free plan · Company pages for developer tools on daily.dev, where posts reach developers who follow your topics.
 
 ## How to Submit Efficiently
 
